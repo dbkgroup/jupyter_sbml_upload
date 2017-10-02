@@ -1,5 +1,6 @@
-# jupyter_sbml_upload
-Demonstration of uploaded multiple user SBML (or indeed any) files to a Jupyter notebook
+# Uploading multiple user SBML files to a Jupyter notebook
+
+Demonstration of uploading multiple user SBML (or indeed any) files to a Jupyter notebook
 
 This notebook is aimed at a niche bit of Computational Biology, but if you ignore all the bio bits it also explains how to do multiple user file uploads within a Jupyter notebook. Uploads rely upon peteut's IPython widget at https://github.com/peteut/ipython-file-upload.
 
